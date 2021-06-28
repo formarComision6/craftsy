@@ -1,0 +1,37 @@
+.home {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.home main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.home section.productos{
+    width: 800px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home section.productos article{
+    width: 380px;
+    margin: 10px 10px 20px 10px;
+}
+
+.home section.productos article img{
+    width: 100%;
+}
+
+.home section.productos article a{
+    background-color: #F15C4F;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+    display: inline-block;
+}
+
+.home aside{
+    width: 320px;
+}
