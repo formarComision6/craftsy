@@ -30,6 +30,12 @@
     text-transform: uppercase;
     padding: 10px;
     display: inline-block;
+    margin: 10px 0;
+
+}
+
+.home section.productos h4{
+    margin: 10px 0;
 }
 
 .home aside{
